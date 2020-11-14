@@ -2,7 +2,7 @@
 2020/11/14
 
 ### Project Title
-GitHub
+GitHub Project
 
 ### Description
 Updating/improving code from bikeshare project using GitHub and local repository
