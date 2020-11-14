@@ -11,4 +11,4 @@ Updating/improving code from bikeshare project using GitHub and local repository
 bikeshare.py
 
 ### Credits
-n/a
+Udacity
