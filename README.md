@@ -1,15 +1,14 @@
-### Date created
+### 2020/11/14
 Include the date you created this project and README file.
 
-### Project Title
+### GitHub
 Replace the Project Title
 
-### Description
+### Updating/improving code from bikeshare project using GitHub and local repository
 Describe what your project is about and what it does
 
-### Files used
+### bikeshare.py
 Include the files used
 
-### Credits
+### n/a
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
