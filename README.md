@@ -2,7 +2,7 @@
 2020/11/14
 
 ### Project Title
-GitHub Project
+GitHub
 
 ### Description
 Updating/improving code from bikeshare project using GitHub and local repository
@@ -11,4 +11,4 @@ Updating/improving code from bikeshare project using GitHub and local repository
 bikeshare.py
 
 ### Credits
-Udacity
+n/a
