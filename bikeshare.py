@@ -9,7 +9,7 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day for analysis.
 
     Returns:
         (str) city - name of the city to analyze
@@ -53,7 +53,7 @@ def get_filters():
 
 def load_data(city, month, day):
     """
-    Loads data for the specified city and filters by month and day if applicable.
+    Loads data for the selected city and filters by month and day if applicable.
 
     Args:
         (str) city - name of the city to analyze
@@ -226,17 +226,17 @@ def main():
         us = input('Would you like to view data on user stats? Enter yes or no').lower()
         if us == 'yes':
             user_stats(df)
-            
+
         # user prompt to view individual trip data
         i = 0
         raw = input("\nWould you like to see first 5 rows of raw data; type 'yes' or 'no'?\n").lower()
-        
-        while True:            
+
+        while True:
             if raw == 'no':
                 break
             print(df[i:i+5])
             raw = input('\nWould you like to see next rows of raw data?\n').lower()
-            i += 5 
+            i += 5
 
         # user prompt to end/re-start application
         restart = input('\nWould you like to restart? Enter yes or no.\n').lower()
